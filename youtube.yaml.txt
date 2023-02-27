@@ -11,7 +11,7 @@ payload:
     - '+.0.0.0.0 rtd.tubemogul.com
     - '+.0.0.0.0 s.innovid.com
     - '+.0.0.0.0 pubads.g.doubleclick.net
-    - '+.- '+.0.0.0.0 ssl.google-analytics.com
+    - '+.0.0.0.0 ssl.google-analytics.com
     - '+.0.0.0.0 www-google-analytics.l.google.com
     - '+.0.0.0.0 stats.g.doubleclick.net
     - '+.0.0.0.0 clients.l.google.com
